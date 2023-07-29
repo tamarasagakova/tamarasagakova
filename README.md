@@ -21,3 +21,9 @@ I'm a passionate software developer and web dev enthusiast. Welcome to my GitHub
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamarasagakova&show_icons=true&hide=contribs&count_private=true&hide_title=true&hide_border=true&bg_color=00000000)
 
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tamarasagakova/) or send me a message through my [website](https://tamarasagakova.github.io).
+
+Looking forward to exploring the world of code together! 😄
