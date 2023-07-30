@@ -5,6 +5,12 @@
 
 I'm a passionate software developer and web dev enthusiast. Welcome to my GitHub! 🚀
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tamarasagakova/count.svg" />
+</p>
+
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
