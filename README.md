@@ -7,8 +7,8 @@ I'm a passionate software developer and web dev enthusiast. Welcome to my GitHub
 
 <p align="center">
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tamarasagakova&theme=dark" />
-      <img src="https://streak-stats.demolab.com?user=tamarasagakova&theme=default" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tamarasagakova&theme=transparent" />
+      <img src="https://streak-stats.demolab.com?user=tamarasagakova&theme=transparent&date_format=j%20M%5B%20Y%5D" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamarasagakova/tamarasagakova/output/github-contribution-grid-snake-dark.svg">
