@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tamara
+# Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamarasagakova/)
 [![Personal Website](https://img.shields.io/badge/Personal_Website-Visit-9C27B0?style=flat&logo=google-chrome&logoColor=white)](https://tamarasagakova.github.io)
