@@ -6,10 +6,12 @@
 I'm a passionate software developer and web dev enthusiast. Welcome to my GitHub! 🚀
 
 <p align="center">
+  <!--
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tamarasagakova&theme=transparent" />
       <img src="https://streak-stats.demolab.com?user=tamarasagakova&theme=transparent&date_format=j%20M%5B%20Y%5D" />
   </picture>
+  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamarasagakova/tamarasagakova/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamarasagakova/tamarasagakova/output/github-contribution-grid-snake.svg">
@@ -17,10 +19,11 @@ I'm a passionate software developer and web dev enthusiast. Welcome to my GitHub
   </picture>
 </p>
 
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tamarasagakova/count.svg" />
-</p>
+</p> -->
 
 ## 🔧 Technologies & Tools
 
